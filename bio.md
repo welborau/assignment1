@@ -5,7 +5,7 @@ Experience I have in programming include:  MatLab (approximately 4 years), AutoL
 
 In fact my *favorite* CS165 project that I worked on last quarter was the final project because I created a short RPG game that consisted of 3 puzzles and several battles with creatures. Also the game had 3 different options: easy, medium, hard.  The TA's for that class enjoyed playing my game so I was fortunate to have that experience doing the final project on a RPG game.
 
-## Interests
+## Interests that I have that I would like to learn more about
 * Programming
 * Compilers
 * Assemblers
@@ -15,8 +15,10 @@ In fact my *favorite* CS165 project that I worked on last quarter was the final 
 * 3D Modeling
 * 3D Printing
 
-## Hobbies
+## Hobbies that I have and more yet to come!
 * lifting weights
 * eating Paleo food
 * reading comic books
 * video games (PC, XBOX 1)
+* horror movies
+* playing with my beloved 6 year old daughter!
