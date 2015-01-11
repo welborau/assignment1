@@ -1,4 +1,4 @@
-# My name is Austin Welborn and this is my Bio!
+# My name is Austin Welborn and this is my Bio!  Enjoy reading about me.
 
 # Programming Background
 Experience I have in programming include:  MatLab (approximately 4 years), AutoLisp, HTML, CSS, Javascript, but it wasn't until last quarter when I really got into C++ in CS165.
@@ -20,3 +20,6 @@ In fact my *favorite* CS165 project that I worked on last quarter was the final 
 * eating Paleo food
 * reading comic books
 * video games (PC, XBOX 1)
+* drawing
+* hanging out with the family
+* playing with my sweet daughter!
