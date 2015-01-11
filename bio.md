@@ -1,4 +1,5 @@
 # Programming Background
+Experience I have in programming include:  MatLab (approximately 4 years), AutoLisp, HTML, CSS, Javascript, but it wasn't until last quarter when I really got into C++ in CS165.
 
 ## Interests
 * Programming
